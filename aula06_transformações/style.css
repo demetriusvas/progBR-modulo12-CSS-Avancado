@@ -1,0 +1,11 @@
+body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+h1 {
+    color: green;
+}
+
+img {
+    width: 420px;
+    transform: scale(0.5)
+}
