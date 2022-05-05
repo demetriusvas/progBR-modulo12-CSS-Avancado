@@ -1,0 +1,31 @@
+body{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+h1 {
+    color: green;
+}
+
+.container{
+    display: flex;
+
+    height: 290px;
+    color: white;
+    background-color: darkgray;
+}
+
+.r1{
+    flex-grow: 1;
+    background-color: red;
+}
+.r2{
+    flex-grow: 2;
+    background-color: blue;
+}
+.r3{
+    flex-grow: 3;
+    background-color: green;
+}
+
+.rect {
+    height: 100px;
+}
