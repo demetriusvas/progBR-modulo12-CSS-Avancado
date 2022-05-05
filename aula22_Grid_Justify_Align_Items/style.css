@@ -21,6 +21,9 @@ h1 {
 
     justify-items: center;
     align-items: center;
+
+    justify-content: flex-end;
+    align-content: flex-end;
 }
 
 .r1{
